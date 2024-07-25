@@ -7,4 +7,4 @@ We focus on building tools and solutions that are not only effective and secure 
 
 Together, we can transform the technology landscape and make free software a solid and attractive option for all.
 
-You can communicate with us by entering our [matrix server](https://matrix.to/#/#gespenter:matrix.org).
+You can communicate with us by entering our [matrix server](https://matrix.to/#/#gespenter:matrix.org)
