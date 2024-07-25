@@ -1,6 +1,10 @@
 
 ![logo](../images/logo.png)
 
-This organization was born with the desire to bring together enthusiastic people to develop different open source projects and thus be able to benefit society as a way of having open source tools that provide efficient solutions.
+At CyberGespenterOpen, we are a passionate and dedicated community focused on developing open-source software. Our goal is to provide viable alternatives to proprietary software, promoting freedom and transparency in technology usage. We believe that software should be accessible to everyone and that open collaboration is the key to innovation and progress.
 
-[MATRIX Server](https://matrix.to/#/#gespenter:matrix.org)
+We focus on building tools and solutions that are not only effective and secure but also foster the growth and active participation of a global community of enthusiastic developers. We invite everyone interested to join us in this mission, whether by contributing code, sharing ideas, or simply participating in our discussions and events.
+
+Together, we can transform the technology landscape and make free software a solid and attractive option for all.
+
+You can communicate with us by entering our [matrix server](https://matrix.to/#/#gespenter:matrix.org).
